@@ -12,7 +12,7 @@ For each image below, the command is blocked out. Write your answer as the UNIX 
 ![img1](imgs/img1.png)
 
 ```
-Your answer here
+ls
 ```
 --- 
 
@@ -20,7 +20,7 @@ Your answer here
 ![img2](imgs/img2.png)
 
 ```
-Your answer here
+cp joker.pdf blueprint_joker.pdf
 ```
 --- 
 
@@ -28,7 +28,7 @@ Your answer here
 ![img3](imgs/img3.png)
 
 ```
-Your answer here
+rm skull3.jpeg
 ```
 --- 
 
@@ -36,7 +36,7 @@ Your answer here
 ![img4](imgs/img4.png)
 
 ```
-Your answer here
+mkdir throne/queen.bin
 ```
 --- 
 
@@ -44,7 +44,7 @@ Your answer here
 ![img5](imgs/img5.png)
 
 ```
-Your answer here
+grep -r "thief"
 ```
 --- 
 
@@ -52,7 +52,7 @@ Your answer here
 ![img6](imgs/img6.png)
 
 ```
-Your answer here
+find . -name "necro*"
 ```
 --- 
 
@@ -60,6 +60,7 @@ Your answer here
 ![img6](imgs/img7.png)
 
 ```
-Your answer here
+chmod +x necromancer.sh
+./necromancer.sh
 ```
 --- 
